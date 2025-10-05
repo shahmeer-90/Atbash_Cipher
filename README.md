@@ -21,8 +21,7 @@ How to Run
    ```bash
    git clone https://github.com/shahmeer-90/atbash_cipher.git
    ```
-2. Open the project folder.
-3. Run the program:
+2 . Run the program:
    ```bash
    python atbash_cipher.py
    ```
